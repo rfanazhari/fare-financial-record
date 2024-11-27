@@ -1,4 +1,4 @@
-export const locale = 'en-US'
+export const locale = 'id-ID'
 
 export * from './numbers'
 export * from './strings'
